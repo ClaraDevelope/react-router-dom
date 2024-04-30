@@ -1,0 +1,11 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.item {
+  font-size: 2rem;
+  margin-left: 2%;
+  color: #121274d7;
+  text-align: center;
+}
